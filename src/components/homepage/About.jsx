@@ -57,22 +57,16 @@ export default function About() {
               A brief intro, who am I?
             </h3>
             <p ref={body} className=" translate-y-10 text-body-1 2xl:text-4xl opacity-0">
-              I am an independent frontend developer, UI/UX designer and creator based in
-              Melbourne, Australia.
+              I am frontend developer, Web3 developer and student based in
+              India.
               <br></br>
-              <br></br>I specialize in crafting elevated, intuitive, and
-              minimalistic designs for startups and small businesses to help
-              them stand out in the digital landscape with a powerful impact. 😎
+              <br></br>Passionate about building cutting-edge web applications and exploring the frontiers of blockchain technology. 
+I specialize in crafting high-performance, user-friendly interfaces using the latest front-end frameworks and libraries. 
+Additionally, I leverage my expertise in blockchain development to create decentralized applications (dApps) that harness the power of distributed ledgers. 😎
               <br></br>
               <br></br>
-              When I am not developing or designing, I enjoy creating videos
-              that talk about frontend development, productivity and design on{" "}
-              <a
-                className="underline duration-300 ease-in-out hover:text-secondary-700"
-                href="https://www.youtube.com/channel/UCBOAB9RV647G93GxLhEXleA"
-              >
-                YouTube 📸
-              </a>
+              When I am not developing or creating, I enjoy listening to music and play sports.
+      
             </p>
           </div>
         </div>

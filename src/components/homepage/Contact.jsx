@@ -49,7 +49,7 @@ export default function Contact() {
             Have an awesome idea? Let&apos;s bring it to life.
           </h3>
           <p ref={body} className="mt-4 max-w-md 2xl:max-w-2xl text-body-2 2xl:text-4xl text-accent-100 translate-y-10 opacity-0">
-            I am currently not available for freelance work. I am accepting new projects starting from February 2022.
+            I am currently available for freelance work. I am looking for internships and exciting projects.
           </p>
           <form
             name="contact"
@@ -128,12 +128,12 @@ export default function Contact() {
             <h4 className="text-body-1 2xl:text-4xl font-semibold">Contact Details</h4>
             <div className="flex flex-col space-y-3 text-body-2 2xl:text-3xl">
               <a
-                href="mailto:hello@huyng.xyz"
+                href="mailto:shantanu.k3672@gmail.com"
                 className="group relative w-fit cursor-pointer"
                 target="_blank"
                 rel="noreferrer"
               >
-                <span>hello@huyng.xyz</span>
+                <span>shantanu.k3672@gmail.com</span>
                 <span className="absolute bottom-0 left-0 h-[0.12em] w-0 rounded-full bg-secondary-600 duration-300 ease-in-out group-hover:w-full"></span>
               </a>
              
@@ -143,19 +143,19 @@ export default function Contact() {
             <h4 className="text-body-1 2xl:text-4xl font-semibold">My Digital Spaces</h4>
             <div className="space-y-3 text-body-2 2xl:text-3xl">
               <a
-                href="https://bento.me/huyng"
+                href="https://twitter.com/ShantanuK86"
                 className="group flex items-center space-x-2"
                 target="_blank"
                 rel="noreferrer"
               >
-                <Icon icon="simple-icons:bento" color="#666" />
+                <Icon icon="simple-icons:twitter" color="#666" />
                 <div className="relative">
-                  <span>Bento</span>
+                  <span>Twitter</span>
                   <span className="absolute bottom-0 left-0 h-[0.10em] w-0 rounded-full bg-secondary-600 duration-300 ease-in-out group-hover:w-full"></span>
                 </div>
               </a>
               <a
-                href="https://github.com/huyngxyz"
+                href="https://github.com/ShantanuK86"
                 className="group flex items-center space-x-2"
                 target="_blank"
                 rel="noreferrer"
@@ -167,7 +167,7 @@ export default function Contact() {
                 </div>
               </a>
               <a
-                href="https://www.linkedin.com/in/huyng03/"
+                href="https://www.linkedin.com/in/shantanu-kumar-011baa15b/"
                 className="group group flex w-fit items-center space-x-2"
                 target="_blank"
                 rel="noreferrer"
@@ -178,25 +178,13 @@ export default function Contact() {
                   <span className="absolute bottom-0 left-0 h-[0.12em] w-0 rounded-full bg-secondary-600 duration-300 ease-in-out group-hover:w-full"></span>
                 </div>
               </a>
-              <a
-                href="https://www.youtube.com/channel/UCBOAB9RV647G93GxLhEXleA"
-                className="group flex items-center space-x-2"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <Icon icon="mdi:youtube" color="#666" />
-                <div className="relative">
-                  <span>YouTube</span>
-                  <span className="absolute bottom-0 left-0 h-[0.10em] w-0 rounded-full bg-secondary-600 duration-300 ease-in-out group-hover:w-full"></span>
-                </div>
-              </a>
             </div>
           </div>
           <div className="space-y-3 ">
             <h4 className="text-body-1 font-semibold 2xl:text-4xl">Location</h4>
             <div className="space-y-2 text-body-2 2xl:text-3xl">
               <p>
-                Melbourne, Australia <br></br>
+                India <br></br>
                 {time}
               </p>
             </div>
